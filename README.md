@@ -1,3 +1,4 @@
+
 # Electronics_Companies_In_Egypt
 
 Hi,
@@ -16,4 +17,6 @@ In this repository, I will collect all the electronics companies in Egypt in one
 | 6     | <img width="100%" height="100%" src="./Images/3Dspeed.jpg">                 | 3D Speed               | Online Page             | [Website](https://www.3d-speed.com/)                               | 01066313679 - [Email](mailto:3d.speed.egypt@gmail.com)                           | N\A|
 | 7     | <img width="100%" height="100%" src="./Images/3DHUB.jpg">                   | 3D Hub                 | Online Page             | [FPage](https://www.facebook.com/3DHUB.PRO)                        | 01558133928 - [Email](mailto:3dhubproscenes@gmail.com)               | October, Giza, Egypt  |
 | 8     | <img width="100%" height="100%" src="./Images/3DLayer.jpg">                 | 3D-Layer               | online page             | [FPage](https://www.facebook.com/3dlayer1)                         | 01154526120 - [Email](mailto:heshamy965@gmail.com)              | N/A                   |
-| 9     | <img width="100%" height="100%" src="./Images/TronX.jpg">                   | TronX                  | Online Page             | [FPage](https://www.facebook.com/tronx1)                           | 01123467509 - [Email](mailto:tronx3dprinting@gmail.com)                          | N/A
+| 9     | <img width="100%" height="100%" src="./Images/TronX.jpg">                   | TronX                  | Online Page             | [FPage](https://www.facebook.com/tronx1)                           | 01123467509 - [Email](mailto:tronx3dprinting@gmail.com)                          | N/A|
+10       |<img width="100%" height="100%" src="./Images/Ikon3D.png">| Ikon 3D | Company | [FPage](https://www.facebook.com/Ikon3D/) | 01017659544 - [Email](mailto:Ikon3d.2025@gmail.com) | 15-احمد عسل الاريزونة - فيصل, Cairo, Egypt |
+11 | <img width="100%" height="100%" src="./Images/YME.jpg"> | YME 3D Printing | StartUp | [FPage](https://www.facebook.com/YMEPlasticsEngineering) | 01063384995 - [Email](mailto:YME3dPrinting@hotmail.com) | 4 branches -> sheikh zayed, 6 October, Zayton, Imbaba |
